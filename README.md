@@ -3,7 +3,6 @@ Use this script to transfer any 3D model to spline and then generate GCode out o
 
 you can view demo video here for the milling
 https://youtu.be/iRbLDFfGRTc
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iRbLDFfGRTc" frameborder="0" allowfullscreen></iframe>
 
 Parameters Explaination:
 <img src="https://raw.githubusercontent.com/HMI1973/Shapeoko-3d-max-script/master/Script%20Parameters.jpg">
